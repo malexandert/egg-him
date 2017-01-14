@@ -4,6 +4,6 @@ when you read the server.js you'll realize that the total egg count is not accur
 
 I started implementing a database using MongoDB and Mongoose but then i kinda got bored and moved on to other projects. so before you do anything else that's a thing that needs fixing.
 
-also i apologize if the code is messy or is this README is slightly incomprehensible.
+also i apologize if the code is messy or if this README is slightly incomprehensible.
 
 also am willing to share hosting & url just hmu :)
