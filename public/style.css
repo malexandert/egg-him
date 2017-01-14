@@ -1,0 +1,7 @@
+#pic{  
+  cursor: url("lib/egg.png") 0 0, auto;
+}
+
+#pic:mousedown{
+  cursor: url("lib/egg1.png") 0 0, auto;
+};
